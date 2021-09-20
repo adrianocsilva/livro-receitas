@@ -3,4 +3,5 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strogonoff de Frango
-- Feijoada
+- Bolinho de Chuva
+- Lazanha de Frango
